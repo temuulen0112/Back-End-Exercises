@@ -1,10 +1,9 @@
-// let grad = 0
-// let unit = ''
-
-// const args = process.argv.slice(2) 
-// console.log(args[0])
-// console.log(args[1])
-
+const args = process.argv.slice(2) 
+function Temp() {
+    if(args[0].match) {
+        
+    }
+}
 
 function cTemp(celcius) {
     let temp = celcius;
